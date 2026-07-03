@@ -1,0 +1,12 @@
+{
+  "metrics_csv": "D:\\Study\\Code_1\\paper_data\\correlated_failure_stress_Rmulti_D6_16p\\chunks\\Alabama_R0p990_seed5.csv",
+  "edge_csv": "D:\\Study\\Code_1\\Edge_devices.csv",
+  "domain_count": 6,
+  "domain_failure_probs": [
+    0.0,
+    0.01,
+    0.03,
+    0.05
+  ],
+  "share_filter": "0p5_0p5"
+}

@@ -1,0 +1,11 @@
+region,fixed_reliability,seed,trace_hash_nunique,arrivals_per_slot_key_nunique,total_arrivals_nunique,dmdca_algo_seed_nunique,base_arrivals_consistent,dmdca_random_stream_consistent_across_eta
+Alabama,0.999,1,1,1,1,1,True,True
+Alabama,0.999,2,1,1,1,1,True,True
+Alabama,0.999,3,1,1,1,1,True,True
+Alabama,0.999,4,1,1,1,1,True,True
+Alabama,0.999,5,1,1,1,1,True,True
+Arizona,0.999,1,1,1,1,1,True,True
+Arizona,0.999,2,1,1,1,1,True,True
+Arizona,0.999,3,1,1,1,1,True,True
+Arizona,0.999,4,1,1,1,1,True,True
+Arizona,0.999,5,1,1,1,1,True,True

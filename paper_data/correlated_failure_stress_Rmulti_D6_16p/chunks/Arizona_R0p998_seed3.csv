@@ -1,0 +1,3 @@
+region,fixed_reliability,seed,method,share,share_tag,placement_trace_path
+Arizona,0.998,3,DMDCA,"0.5,0.5",0p5_0p5,D:\Study\Code_1\paper_data\workload_sharing_sensitivity\Arizona\R0p998\DMDCA_share0p5_0p5\seed3\placement_trace_Arizona_mdca_seed3.json
+Arizona,0.998,3,MDCA,,,D:\Study\Code_1\paper_data\workload_sharing_sensitivity\Arizona\R0p998\MDCA\seed3\placement_trace_Arizona_mdca_seed3.json

@@ -1,0 +1,4 @@
+scale,J,K,L,M,total_runs,solved_instances,ratio_instances,timeout_count,infeasible_count,mdca_infeasible_count,mean_mdca_opt_ratio,max_mdca_opt_ratio,mean_opt_runtime_s,mean_lb_opt_ratio
+3x5x2,3,5,2,2,10,10,9,0,0,1,1.0635762574339662,1.159516053679357,1.030844330007676,0.7525618339610812
+5x5x2,5,5,2,2,10,3,3,7,0,0,1.0371369346013848,1.0791477107232028,22.72371390000141,0.8034197567729885
+5x8x3,5,8,3,2,10,0,0,10,0,0,,,,

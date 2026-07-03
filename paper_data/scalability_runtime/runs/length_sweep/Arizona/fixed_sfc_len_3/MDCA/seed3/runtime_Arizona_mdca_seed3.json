@@ -1,0 +1,5 @@
+{
+  "total_runtime_s": 2.558169799973257,
+  "command": "C:\\Python314\\python.exe D:\\Study\\Code_1\\online_mdca_sim_delay_split_strict.py --edge_csv D:\\Study\\Code_1\\Edge_devices.csv --region Arizona --time_slots 120 --arrival_rate 20.0 --mean_service_time 9.0 --k 6 --algo mdca --cap_scale 0.2 --backhaul_knn_k 4 --backhaul_bw_scale 0.5 --fixed_reliability 0.999 --fixed_sfc_len 3 --seed 3 --out_dir D:\\Study\\Code_1\\paper_data\\scalability_runtime\\runs\\length_sweep\\Arizona\\fixed_sfc_len_3\\MDCA\\seed3 --max_backup_level 2",
+  "completed_returncode": 0
+}

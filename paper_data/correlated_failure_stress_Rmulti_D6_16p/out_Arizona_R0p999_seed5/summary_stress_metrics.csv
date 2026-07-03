@@ -1,0 +1,9 @@
+region,fixed_reliability,method,share,share_tag,domain_count,domain_failure_prob,total_accepted_mean,total_accepted_std,total_accepted_count,expected_target_satisfaction_ratio_mean,expected_target_satisfaction_ratio_std,expected_target_satisfaction_ratio_count,expected_reliability_mean,expected_reliability_std,expected_reliability_count,expected_reliability_loss_mean,expected_reliability_loss_std,expected_reliability_loss_count,total_accepted_ci95,expected_target_satisfaction_ratio_ci95,expected_reliability_ci95,expected_reliability_loss_ci95
+Arizona,0.999,DMDCA,"0.5,0.5",0p5_0p5,6,0.0,1087.0,,1,1.0,,1,0.9993633959871608,,1,0.0,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,DMDCA,"0.5,0.5",0p5_0p5,6,0.01,1087.0,,1,0.9643283065881884,,1,0.9938716472392799,,1,0.005491748747880942,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,DMDCA,"0.5,0.5",0p5_0p5,6,0.03,1087.0,,1,0.8961879638457856,,1,0.9823086704130056,,1,0.017054725574155216,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,DMDCA,"0.5,0.5",0p5_0p5,6,0.05,1087.0,,1,0.8321436453685603,,1,0.9699831442072554,,1,0.029380251779905442,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,MDCA,nan,nan,6,0.0,885.0,,1,1.0,,1,0.9993820464509444,,1,3.3306690738754696e-16,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,MDCA,nan,nan,6,0.01,885.0,,1,0.9660702172889689,,1,0.9932737876639195,,1,0.006108258787025256,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,MDCA,nan,nan,6,0.03,885.0,,1,0.901136854257403,,1,0.9805368511691245,,1,0.01884519528182027,,1,0.0,0.0,0.0,0.0
+Arizona,0.999,MDCA,nan,nan,6,0.05,885.0,,1,0.8399501020127114,,1,0.9671146298990796,,1,0.03226741655186516,,1,0.0,0.0,0.0,0.0

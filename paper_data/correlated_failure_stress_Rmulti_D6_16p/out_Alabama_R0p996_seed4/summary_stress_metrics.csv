@@ -1,0 +1,9 @@
+region,fixed_reliability,method,share,share_tag,domain_count,domain_failure_prob,total_accepted_mean,total_accepted_std,total_accepted_count,expected_target_satisfaction_ratio_mean,expected_target_satisfaction_ratio_std,expected_target_satisfaction_ratio_count,expected_reliability_mean,expected_reliability_std,expected_reliability_count,expected_reliability_loss_mean,expected_reliability_loss_std,expected_reliability_loss_count,total_accepted_ci95,expected_target_satisfaction_ratio_ci95,expected_reliability_ci95,expected_reliability_loss_ci95
+Alabama,0.996,DMDCA,"0.5,0.5",0p5_0p5,6,0.0,1404.0,,1,1.0,,1,0.9978566326500405,,1,8.881784197001252e-16,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,DMDCA,"0.5,0.5",0p5_0p5,6,0.01,1404.0,,1,0.9651448100194296,,1,0.9904540169861995,,1,0.007402615663841927,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,DMDCA,"0.5,0.5",0p5_0p5,6,0.03,1404.0,,1,0.8984925732957203,,1,0.9750863864765795,,1,0.022770246173461905,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,DMDCA,"0.5,0.5",0p5_0p5,6,0.05,1404.0,,1,0.835753640480324,,1,0.9589926130723045,,1,0.038864019577736886,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,MDCA,nan,nan,6,0.0,1387.0,,1,1.0,,1,0.9978668176512167,,1,8.881784197001252e-16,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,MDCA,nan,nan,6,0.01,1387.0,,1,0.9657842244589528,,1,0.9896918115935956,,1,0.008175006057621892,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,MDCA,nan,nan,6,0.03,1387.0,,1,0.9003198505573697,,1,0.9728546755320933,,1,0.02501214211912428,,1,0.0,0.0,0.0,0.0
+Alabama,0.996,MDCA,nan,nan,6,0.05,1387.0,,1,0.8386538681506851,,1,0.9553896139128483,,1,0.042477203738369274,,1,0.0,0.0,0.0,0.0

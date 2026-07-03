@@ -1,0 +1,12 @@
+{
+  "metrics_csv": "D:\\Study\\Code_1\\paper_data\\workload_sharing_sensitivity\\raw_metrics_long.csv",
+  "edge_csv": "D:\\Study\\Code_1\\Edge_devices.csv",
+  "domain_count": 6,
+  "domain_failure_probs": [
+    0.0,
+    0.01,
+    0.03,
+    0.05
+  ],
+  "share_filter": ""
+}

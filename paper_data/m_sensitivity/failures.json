@@ -1,0 +1,9 @@
+[
+  {
+    "task": {
+      "region": "Alabama",
+      "method": "MDCA",
+      "seed": 1,
+      "fixed_reliability": 0.996,
+      "M": 1,
+      "out_dir": 

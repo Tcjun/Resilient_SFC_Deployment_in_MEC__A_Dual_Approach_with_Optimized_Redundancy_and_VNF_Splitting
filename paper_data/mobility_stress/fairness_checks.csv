@@ -1,0 +1,11 @@
+region,fixed_reliability,seed,trace_hash_nunique,arrivals_per_slot_key_nunique,total_arrivals_nunique,base_trace_consistent
+Alabama,0.999,1,1,1,1,True
+Alabama,0.999,2,1,1,1,True
+Alabama,0.999,3,1,1,1,True
+Alabama,0.999,4,1,1,1,True
+Alabama,0.999,5,1,1,1,True
+Arizona,0.999,1,1,1,1,True
+Arizona,0.999,2,1,1,1,True
+Arizona,0.999,3,1,1,1,True
+Arizona,0.999,4,1,1,1,True
+Arizona,0.999,5,1,1,1,True

@@ -1,0 +1,18 @@
+{
+  "raw_sim_metrics": "D:\\Study\\Code_1\\paper_data\\mobility_stress\\raw_sim_metrics.csv",
+  "raw_mobility_metrics": "D:\\Study\\Code_1\\paper_data\\mobility_stress\\raw_mobility_metrics.csv",
+  "summary_mobility_metrics": "D:\\Study\\Code_1\\paper_data\\mobility_stress\\summary_mobility_metrics.csv",
+  "edge_csv": "D:\\Study\\Code_1\\Edge_devices.csv",
+  "fixed_reliability": 0.999,
+  "p_mob_values": [
+    0.0,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "access_scale_min": 0.9,
+  "access_scale_max": 1.1,
+  "mobility_seed": 20260610,
+  "violation_denominator": "accepted requests under the original placement",
+  "stress_test_scope": "post-placement ingress-change sensitivity; no rerouting or migration optimization"
+}
